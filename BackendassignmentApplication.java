@@ -1,13 +1,13 @@
-package com.backendassignment.backendassignment;
+package com.moveinsynccodingtask;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BackendassignmentApplication {
+public class MoveinsyncApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BackendassignmentApplication.class, args);
+		SpringApplication.run(MoveinsyncApplication.class, args);
 	}
 
 }
