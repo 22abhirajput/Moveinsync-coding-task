@@ -1,4 +1,4 @@
-package com.backendassignment.backendassignment.models;
+package com.Moveinsync.Moveinsync.models;
 
 //import java.beans.Transient;
 
